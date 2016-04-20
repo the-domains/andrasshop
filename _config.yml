@@ -1,0 +1,28 @@
+name: AndrasShop
+favicon: null
+layout_spectrum: 0.25847100908868015
+typography_spectrum: 0.44153770711272955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8267277714330703
+  lightness: 0.904547706944868
+  saturation: 0.1019588562194258
+  rhythmicContrast: 0.29863354470580816
+purpose: []
