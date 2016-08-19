@@ -1,33 +1,31 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-04-20T12:48:42.312Z'
-dateModified: '2016-04-20T12:48:21.377Z'
-title: Θα μας βρείτε
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-19T10:59:13.432Z'
 sourcePath: _posts/2016-04-20-8a-mas-breite.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-19T10:59:12.854Z'
+title: Θα μας βρείτε
+publisher: {}
+description: Κατάστημα ΠεριστερίουΣαρανταπόρου 37Τηλ. 210 5776468
+inLanguage: null
+inNav: true
+starred: false
 url: 8a-mas-breite/index.html
 _type: Article
 
 ---
 # Θα μας βρείτε
 
-* **Κατάστημα Περιστερίου****Κατάστημα Αγίων Αναργίρων****Κατάστημα Φιλαδέλφιας**
+**Κατάστημα Περιστερίου**Σαρανταπόρου 37Τηλ. 210 5776468
 
-Σαρανταπόρου 37Ηρώων Πολυτεχνείου 35Δεκελείας 57
+**Κατάστημα Αγίων Αναργίρων**
 
-Τηλ. 210 5776468
+Ηρώων Πολυτεχνείου 35
 
-* σδφσδφ
+**Κατάστημα Φιλαδέλφιας**
+
+Δεκελείας 57
